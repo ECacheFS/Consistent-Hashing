@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "conhash.h"
+#include "src/conhash.h"
 
 struct node_s g_nodes[64];
 int main()
